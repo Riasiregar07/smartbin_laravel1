@@ -1,0 +1,18 @@
+.max-w-3xl {
+    max-width: 48rem /* 768px */;
+}
+
+.text-teal {
+    color: #00b5b8;
+}
+
+.fs-xl {
+    font-size: 60pt !important;
+}
+
+.btn-teal {
+    color: #fff;
+    border-radius: 50px;
+    background: #00b5b8 !important;
+    border-color: #00b5b8 !important;
+}

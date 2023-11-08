@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lightseagreen: #00b5b8;
+  --color-darkgray: #a7a7a7;
+  --color-gainsboro: rgba(222, 222, 222, 0.63);
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+}
